@@ -5,6 +5,7 @@ sidebar_position: 3
 ## Today's Financial Contracts
 
 ![image](https://github.com/user-attachments/assets/92f43299-21b6-4e5f-88cf-dc2022384c05)
+- Watch video – [YouTube](https://youtu.be/DGbhhUmrwWU?si=V1ibiBrYBs8UH36&t=324s)
 
 ## Centrality of Financial Contracts
 
@@ -20,11 +21,12 @@ A single algorithm can represent various types of financial contracts, including
 
 #### Cash Flow Patterns
 Despite the wide range of financial products, they generally use a limited number of cash flow patterns. Most payment obligations can be represented by fewer than three dozen algorithms, underscoring the commonality in financial contract structures.
-![image](https://github.com/user-attachments/assets/c9cec2ae-1820-4209-8846-8f8800751f64)
 
+- Watch video – [YouTube](https://youtu.be/DGbhhUmrwWU?si=V1ibiBrYBs8UH36&t=378s)
 
 ## How to think about financial systems
 ![image](https://github.com/user-attachments/assets/a4ff5019-c2b3-47d0-9a83-4ca20bdd8458)
+- Watch video – [YouTube](https://youtu.be/DGbhhUmrwWU?si=V1ibiBrYBs8UH36T&t=399s)
 ### Transaction Processing
 
 In today's financial systems, contract terms are processed by algorithms to determine the promised cash receipts. This algorithmic processing ensures accurate and efficient handling of financial transactions.

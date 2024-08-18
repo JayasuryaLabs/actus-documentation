@@ -7,6 +7,7 @@ sidebar_position: 4
 This enhanced model provides a step-by-step approach to understanding financial contracts. Starting with risk factors and contract details, it tracks the flow of events and expected cash flows, ultimately leading to analytical results. These results help financial institutions manage risks, predict outcomes, and make informed decisions in a complex financial environment.
 
 ![image](https://github.com/user-attachments/assets/0d53aa26-eb88-4268-91ad-7baf959ac23d)
+Watch video – [YouTube](https://youtu.be/DGbhhUmrwWU?si=V1ibiBrYBs8UH36&t=538s)
 
 The model offers a comprehensive framework for analyzing financial contracts. It explains how various inputs and events lead to expected cash flows and ultimately affect key financial outcomes like liquidity, income, and value.
 
@@ -66,5 +67,3 @@ These results are crucial for understanding the financial health of the contract
 ## Actus in Financial Analytics
 
 By using Actus, institutions can improve the accuracy and reliability of their financial analytics, leading to better decision-making and risk management.
-
-File 7: Benefits

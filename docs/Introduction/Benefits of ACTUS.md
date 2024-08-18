@@ -2,6 +2,7 @@
 sidebar_position: 5
 ---
 # Benefits of ACTUS
+- Watch video – [YouTube](https://youtu.be/DGbhhUmrwWU?si=V1ibiBrYBs8UH36&t=641s)
 
 ## Key Advantages of the Actus Standard
 
