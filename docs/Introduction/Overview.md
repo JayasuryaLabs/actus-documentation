@@ -13,7 +13,7 @@ This complexity leads to challenges in handling financial data, making it diffic
 
 Actus (Algorithmic Contracts Types Unified Standards) is a standardization framework for financial contracts. It aims to bring consistency and clarity to how financial contracts are represented, executed, and analyzed across different platforms and institutions.
 
-![image](https://github.com/user-attachments/assets/75cc0df5-e80a-437b-8066-454bc382b72b)
+![image](https://github.com/user-attachments/assets/e0d7d4f3-1f2b-4f54-a113-d40fbe755d70)
 
 ## Need for Actus
 
