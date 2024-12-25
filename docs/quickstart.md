@@ -29,7 +29,7 @@ Follow these steps to install and run ACTUS:
 
 3. Run the following command to start the Docker containers:
     ```bash
-    docker compose -f config2-docker-actus-rf20.yml -p config2-docker-actus-rf20 up
+    docker compose -f quickstart-docker-actus-rf20.yml -p quickstart-docker-actus-rf20 up
 
 4. Verify that the services are running by checking the logs for the following confirmation message:
     ```plaintext
